@@ -1,0 +1,101 @@
+Copy the following code, and paste it into a <div> element in your site's <body> section,
+ where you want both of the search box and the search results to render.
+
+Note: For the most cross-browser compatibility, it is recommended that your HTML pages
+use a supported doctype such as <!DOCTYPE html>. CSS hover effects require a supported doctype.
+
+
+
+
+Snapdeal :
+
+<script>
+  (function() {
+    var cx = '002927083213977801071:gihexsckuxk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+
+Ebay :
+
+<script>
+  (function() {
+    var cx = '002927083213977801071:g5carppatz8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+
+Alibaba :
+
+<script>
+  (function() {
+    var cx = '002927083213977801071:395wr-5rm3i';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+Flipkart :
+
+<script>
+  (function() {
+    var cx = '002927083213977801071:srrjkb3feaa';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+Amazon :
+
+<script>
+  (function() {
+    var cx = '002927083213977801071:t3z-6ulwloo';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+
+Cnext Search:
+
+<script>
+  (function() {
+    var cx = '002927083213977801071:_p9fzyjan5e';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>

@@ -1,0 +1,29 @@
+td{
+	padding:10px;
+}
+#regbox{
+	width:38.1em;
+	background-color:rgba(255, 255, 255, 0.75);;
+}
+#regtable{
+	color:black;
+}
+.text-box{
+	width:20em;
+	height:2.2em;
+	border-radius: 10px;
+}
+#backimage{
+  width:100%;
+  height:100%;
+  position:fixed; 
+  opacity:0.5;
+  z-index:-1;
+  top:0px;
+  left:0px;
+}
+#heading{
+	background-color:#dee4eb;
+	color:blue;
+	text-align:center;
+}
